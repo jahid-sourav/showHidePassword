@@ -1,0 +1,10 @@
+.password-case{
+    position: relative;
+}
+.password-case #passwordCaseToggler{
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
